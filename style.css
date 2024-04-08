@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#counter{
+  display: block;
+  text-align: center;
+  font-size: 10rem;
+  margin-top: 2rem;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 2rem;
+margin-top: 2rem;
+}
+.btn{
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+.red{
+  background-color: red;
+}
+.gray{
+  background-color: gray;
+}
+.green{
+  background-color: green;
+}
